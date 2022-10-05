@@ -1,0 +1,14 @@
+package oop1;
+
+//Burada ürünü ve diğer ürünleri tanımlayabileceğimiz ortamı hazırlıyoruz
+//PascalCase bir isimlendirme şeklidir. Kelimelerin ilk harfleri büyük olur
+public class Product {
+	private String name;
+	// Field lar camelCase olarak yazılır:unitPrice,unitInStock gibi
+	private double unitPrice;
+	private double discount;
+	private String imageUrl;
+	private int unitInStock;
+	
+
+}

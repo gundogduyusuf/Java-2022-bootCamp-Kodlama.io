@@ -1,0 +1,31 @@
+package oop1;
+
+public class Main {
+
+	public static void main(String[] args) {
+		String mesaj = "Vade oranı";
+
+		Product product1 = new Product();
+		product1.name = "Delonghi Kahve Makinesi";
+		product1.unitPrice = 7500;
+		product1.discount = 7;
+		product1.unitInStock = 3;
+		product1.imageUrl = "bilmemne.jpg";
+
+		Product product2 = new Product();
+		product2.name = "Delonghi Kahve Makinesi";
+		product2.unitPrice = 7500;
+		product2.discount = 7;
+		product2.unitInStock = 3;
+		product2.imageUrl = "bilmemne.jpg";
+
+		Product product3 = new Product();
+		product3.name = "Delonghi Kahve Makinesi";
+		product3.unitPrice = 7500;
+		product3.discount = 7;
+		product3.unitInStock = 3;
+		product3.imageUrl = "bilmemne.jpg";
+
+	}
+
+}
