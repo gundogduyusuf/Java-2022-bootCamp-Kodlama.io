@@ -1,0 +1,14 @@
+package oop1;
+
+public class Main {
+
+	public static void main(String[] args) {
+		//oop:object oriented programing-nesne yönelimli programlama
+		
+		String mesaj = "Vade oranı";
+		
+		Product product1 = new Product()
+		
+	}
+
+}

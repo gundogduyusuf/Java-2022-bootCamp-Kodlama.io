@@ -1,0 +1,14 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		// primitive types yani ilkel tip veri tipleri : booleon,char,byte,short,int,long,floot,double
+		
+		int sayi = 12;
+		sayi = 13;
+		
+	}
+
+}

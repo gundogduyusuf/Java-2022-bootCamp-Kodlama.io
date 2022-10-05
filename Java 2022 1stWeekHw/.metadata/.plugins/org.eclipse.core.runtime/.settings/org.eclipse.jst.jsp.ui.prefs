@@ -1,0 +1,8 @@
+SCRIPT_AREA_BORDER=\#fbd153 | null | false | false | false | false
+eclipse.preferences.version=1
+overriddenByCSS=,SCRIPT_AREA_BORDER,tagAttributeEquals,tagAttributeName,tagAttributeValue,tagBorder,tagName,
+tagAttributeEquals=\#49b50f | null | false | false | false | false
+tagAttributeName=\#a7ec21 | null | false | false | false | false
+tagAttributeValue=\#14b285 | null | false | true | false | false
+tagBorder=\#808080 | null | false | false | false | false
+tagName=\#03a8d8 | null | true | false | false | false

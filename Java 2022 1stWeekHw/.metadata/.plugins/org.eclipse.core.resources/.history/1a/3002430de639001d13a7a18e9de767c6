@@ -1,0 +1,11 @@
+package oop1;
+//PascalCase
+public class Product {
+
+	String name;
+	//camelCase
+	private double unitPrice;
+	private double discount;
+	String imageUrl;
+	int unitInstock;
+}
