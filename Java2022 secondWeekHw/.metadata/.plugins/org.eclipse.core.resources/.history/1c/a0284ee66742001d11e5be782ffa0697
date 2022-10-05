@@ -1,0 +1,78 @@
+package classesWithAttributes;
+
+public class Product {
+
+	// attribute veya field denir alttakilere
+	int id;
+	String name;
+	String description;
+	double price;
+	int stockAmount;
+	String renk;
+	String kod;
+
+	// Single Responsibility Principle yani bir class sadece bir işi yapar bir
+	// method sadece bir işi yapar. Yani product class ı hem atribute tutup hemde
+	// operasyonları içermemeli.Alttaki 3 yorum satırı bu clss ta olmamalı.
+
+	// public void Add(Product product) {
+	// JDBC
+	// System.out.println("Ürün Eklendi: " + product.name);
+
+	// Getter
+	public int getId() {
+		return id;
+	}
+
+	// Setter
+	public void setId(int id) {
+		this.id = id;
+
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getDescription() {
+		return description;
+	}
+
+	public void setDescription(String description) {
+		this.description = description;
+	}
+
+	public double getPrice() {
+		return price;
+	}
+
+	public void setPrice(double price) {
+		this.price = price;
+	}
+
+	public int getStockAmount() {
+		return stockAmount;
+	}
+
+	public void setStockAmount(int stockAmount) {
+		this.stockAmount = stockAmount;
+	}
+
+	public String getRenk() {
+		return renk;
+	}
+
+	public void setRenk(String renk) {
+		this.renk = renk;
+	}
+
+	public String getKod() {
+		return this.name(0, 1) + id;
+
+	}
+
+}

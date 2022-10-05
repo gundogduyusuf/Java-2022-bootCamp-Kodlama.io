@@ -1,0 +1,14 @@
+package classesWithAttributes;
+
+public class Product {
+	
+	//attribute veya field denir alttakilere 
+	int id;
+	String name;
+	String description;
+	double price;
+	int stockAmount;
+
+	
+	
+}

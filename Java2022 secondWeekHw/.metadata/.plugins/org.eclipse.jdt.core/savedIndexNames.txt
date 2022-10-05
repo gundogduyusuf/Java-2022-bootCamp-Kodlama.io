@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+C:\Users\G.J\Desktop\Java2022 secondWeekHw\.metadata\.plugins\org.eclipse.jdt.core
+858178207.index
+966851747.index
+2104893808.index
+1888937284.index
+4163541083.index
+1879176816.index
+2888110583.index
+1865797976.index
+3364348176.index
+2908218732.index
